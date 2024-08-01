@@ -72,3 +72,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - [kagpian121@gmail.com](mailto:your_email@example.com)
 
 Project Link: [https://github.com/Sk09032/mlproject/](https://github.com/Sk09032/mlproject/)
+
+
+[def]: #installation
